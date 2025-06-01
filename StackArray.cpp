@@ -76,7 +76,10 @@ public:
     }
     void clearStack()
     {
-        top = -1;
+        while (!isEmpty())
+        {
+            popItem();
+        }
     }
     void displayStack()
     {
