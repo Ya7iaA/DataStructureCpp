@@ -59,6 +59,11 @@ public:
     }
     int getTop()
     {
+        if (isEmpty())
+        {
+            cout << "Stack is Empty" << endl;
+            return -1;
+        }
         return dynamicStack[top];
     }
     int getCountElement()
