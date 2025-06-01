@@ -148,8 +148,9 @@ int main()
     array.addItem(4);
     array.insertItem(2, 2);
     array.displayArray();
-    cout << "===========" << endl;
+    cout << "==========" << endl;
     cout << array.getCountElement() << endl;
     cout << array.getSize() << endl;
     cout << array.getItemAtIndex(3) << endl;
+    cout << array.searchItem(3);
 }
