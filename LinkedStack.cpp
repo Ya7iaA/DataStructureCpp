@@ -70,6 +70,11 @@ public:
     }
     int getTop()
     {
+        if (isEmpty())
+        {
+            cout << "Stack is Empty" << endl;
+            return -1;
+        }
         return stackTop->stackItem;
     }
     int getSize()
@@ -101,7 +106,7 @@ public:
     }
     ~linkedStack()
     {
-        while(!isEmpty())
+        while (!isEmpty())
         {
             popItem();
         }
