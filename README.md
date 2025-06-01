@@ -10,6 +10,10 @@
 
 • Contain an implement of stack using array
 
+### 🔸Linked Stack
+
+• Contain an implement of stack using Linked List
+
 ## Features
 
 • Clean, well-commented C++ code
