@@ -14,9 +14,13 @@
 
 • Contain an implement of stack using Linked List
 
+### 🔸Queue Array
+
+• Contain an implement of queue using array
+
 ### 🔸Linked Queue
 
-• Contain an implement of Queue using Linked List
+• Contain an implement of queue using Linked List
 
 ## ✅Features
 
