@@ -14,6 +14,10 @@
 
 • Contain an implement of stack using Linked List
 
+### 🔸Linked Queue
+
+• Contain an implement of Queue using Linked List
+
 ## ✅Features
 
 • Clean, well-commented C++ code
