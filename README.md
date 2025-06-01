@@ -6,6 +6,10 @@
 
 • Contain an implement of a dynamic array
 
+### 🔸Linked List
+
+• Contain an implement of a linked list
+
 ### 🔸Stack Array
 
 • Contain an implement of stack using array
