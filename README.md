@@ -1,25 +1,17 @@
 # Data-Structure-Cpp
 
-### Array
+• This repository contains implementations of common data structures using C++. The project serves as a learning resource for understanding fundamental data structures and their applications in computer science.
 
+### 🔸Array
 
+• Contain an implement of a dynamic array
 
-=> addItem(item)	        Appends item to the end of the array
+###
 
-=> insertItem(item, pos)	Inserts item at the given 1-based position
+## Features
 
-=> deleteItem(item)	    Removes the first occurrence of item
+• Clean, well-commented C++ code
 
-=> searchItem(item)	    Returns index (0-based) of item, or -1 if not found
+• Object-oriented implementations
 
-=> getItemAtIndex(index)	Returns the value at given index
-
-=> getSize()	            Returns total capacity of the array
-
-=> getCountElement()	    Returns current number of elements
-
-=> isFull() / isEmpty()	Checks array status
-
-=> clearArray()	        Clears all elements
-
-=> displayArray()	        Prints the array in formatted style
+• Example usage in main.cpp files
