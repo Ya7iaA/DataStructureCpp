@@ -26,6 +26,10 @@
 
 • Contain an implement of queue using Linked List
 
+### 🔸Linked Queue
+
+• Contain an implement of sorting algorithm
+
 ## ✅Features
 
 • Clean, well-commented C++ code
